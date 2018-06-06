@@ -10,7 +10,7 @@
                 <tr>
                     <th>id</th>
                     <th>ステータス</th>
-                    <th>タスク</th>
+                    <th>課題</th></th>
                 </tr>
             </thead>
             <tbody>
